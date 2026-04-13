@@ -23,5 +23,18 @@
 
 ####   <img width="1038" height="382" alt="image" src="https://github.com/user-attachments/assets/ccb5e543-aa19-40e2-a488-83124660acc9" />
 ###   N như vậy là miền đã đăng ký đã hoàn tất.
+##   Đăng ký tài khoảng Cloudflare
+###  Trước hết đăng ký tài khoảng cloudflare. Thực hiện tuần tự các bước.
+##   Thêm domain đã đăng ký vào trong cloudflare: nhập 2 dòng namespace
+###    Chọn domain, sau dó ấn nút Orboard domain.Nhập domain vừa đăng ký vào.
+####    <img width="903" height="377" alt="image" src="https://github.com/user-attachments/assets/aebd2fff-e26b-4d13-9ba2-ae29cc27c7bd" />
+####    <img width="935" height="387" alt="image" src="https://github.com/user-attachments/assets/fc4eec97-3c95-443a-9d6c-b35db78e88c6" />
+####    <img width="923" height="375" alt="image" src="https://github.com/user-attachments/assets/c166ef1e-362e-439e-afd0-298a5204debd" />
+####    <img width="928" height="401" alt="image" src="https://github.com/user-attachments/assets/07866861-f23c-441a-9f94-b46bbea32aa8" />
+###    Ấn vào check nameservers now
+####    <img width="891" height="394" alt="image" src="https://github.com/user-attachments/assets/98f5c7ca-12db-4f84-9912-b3da9dfc37a6" />
+###   Hoàn thành nhiệm vụ.
+
+
 
 
